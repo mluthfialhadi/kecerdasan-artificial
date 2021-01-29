@@ -1,1 +1,1 @@
-# kebodohan-artificial
+# kecerdasan-artificial
